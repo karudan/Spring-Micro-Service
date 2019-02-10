@@ -13,7 +13,7 @@ words: Karudan,Sathya,Kavin,Kodi,Karthick
 ---
 spring:
   profiles: verb
-words: ran,knew,had,saw,bought
+words: eat,drink,read,sit,cut
 
 ---
 spring:
